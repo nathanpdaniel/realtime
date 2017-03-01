@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "main.js",
   "scripts": {
-    "start": "<PATH TO ELECTRON> <PATH TO APP>"
+    "start": "/Users/nathanpdaniel/.nvm/versions/node/v6.9.1/lib/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron ~/Desktop/code/hackathon/marta"
   },
   "devDependencies": {
     "bower": "^1.8.0"
