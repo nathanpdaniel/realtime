@@ -1,0 +1,14 @@
+{
+  "name": "marta",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "<PATH TO ELECTRON> <PATH TO APP>"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  },
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
